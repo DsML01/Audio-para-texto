@@ -1,0 +1,9 @@
+audio/
+__pycache__/
+*.pyc
+*.in
+ignore*.*
+.pytest_cache
+*.out
+*.mp3
+*.txt
